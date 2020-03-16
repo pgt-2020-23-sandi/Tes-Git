@@ -1,0 +1,8 @@
+C:\xampp\htdocs\3-crud_poltek\ebab_mbfdzb.png
+C:\xampp\htdocs\3-crud_poltek\ebab_mbfdzb_d.png
+C:\xampp\htdocs\3-crud_poltek\ebab_mbfdzb_d2.png
+C:\xampp\htdocs\3-crud_poltek\ebab_mbfdzb_c.png
+C:\xampp\htdocs\3-crud_poltek\ebab_mbfdzb_c2.png
+C:\xampp\htdocs\3-crud_poltek\mbjsmbfdzb.js
+C:\xampp\htdocs\3-crud_poltek\mbcsmbfdzb.css
+C:\xampp\htdocs\3-crud_poltek\filelist_fdzb.txt
